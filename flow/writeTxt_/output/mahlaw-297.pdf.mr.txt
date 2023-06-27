@@ -38,6 +38,18 @@
 Specifications प्रमाणे रु.५.०० कोटी इतक्या रकमेच्या मर्यादेत शक्य होईल तितकी
 हार्डवेअर सामुग्री शासनाच्या विहित धोरणानुसार खरेदी करण्यात यावी.
 Specifications of Computer
+--------------------------------------------------
+| Particular | Specification |
+| Processor  |  | 13th, 8th Generation 8100 processor. |
+| RAM | 4 GB, DDR4 expandable upto 32 GB |
+| Hard Drive Disk | 1000 GB SATA |
+| Certificates  |  | Energy Star, BIS, ROHS |
+| Security  |  | TPM 2.0 |
+| Operating System | Linux |
+| Warranty  |  | 5 years on site |
+| Chipset | OEM Compatible |
+| USB | 4: 2.0 & 2: 3.0 |
+--------------------------------------------------
 पृष्ठ ४ पैकी २
 # Page 3
 शासन निर्णय क्रमांकः संप्रिसा-२०१६/प्र.क्र.४६/का.०७

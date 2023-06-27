@@ -28,6 +28,32 @@
 शासन निर्णय क्रमांकः सासंवि-१०१८/९४५/प्र.क्र.९३/का.१६
 यांनी सादर केलेल्या प्रस्तावास व त्यासाठी येणा-या खर्चास खालील तपशिलाप्रमाणे मान्यता देण्यात येत आहे
 :-Estimated Cost for the proposed Shirdi Smart City Project.
+---------------------------------------------------
+|  | Item | Estimated cost (in Crore) |
+| CAPEX |
+| A | City Fiber | 12.28 |
+| B | Safety and Security- Town | 2.71 |
+| C | Safety and Security-SSST | 11.89 |
+| D | Smart Utilities | 4.54 |
+| E | Other smart elements | 1.36 |
+| F | CCC and viewing centers | 4.28 |
+| G | Software & Licenses | 2.77 |
+|  | One time cost-bandwidth | 0.70 |
+| SBU TOTOAL | 40.55 |
+| OPEX (O & M for 5 years) |
+|  | City Fiber | 3.50 |
+| B | Safety and Security- Town | 1.08 |
+|  | Safety and Security-SSST | 4.76 |
+|  | Smart Utilities | 1.82 |
+| E | Other smart elements | 0.56 |
+| F | CCC and viewing centers | 1.71 |
+| G | Software & Licenses | 1.11 |
+| H | Cloud DC & DR | 7.64 |
+|  | Bandwidth | 2.10 |
+| J | Tech & Operational manpower (Over 5 years) | 7.75 |
+| SBU TOTOAL | 32.03 |
+|  | TOTOAL |  |  |  |  |  | 72.58 |  |
+---------------------------------------------------
 पृष्ठ ३ पैकी २
 # Page 3
 शासन निर्णय क्रमांकः सासंवि-१०१८/९४५/प्र.क्र.९३/का.१६

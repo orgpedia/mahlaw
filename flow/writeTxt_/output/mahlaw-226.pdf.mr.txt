@@ -25,6 +25,57 @@
 तपशिलाप्रमाणे शासन मान्यता देण्यात येत आहे.
 # Page 2
 शासन निर्णय क्रमांकः सासंवि-१०१८/९६९/प्र.क्र.११०/का.१६
+--------------------------------------------------
+| Sr.No. | Building Type | Cost (Rs.) |
+| A | Civil Work |  |
+| 1 | English medium, School | 299406668 |
+| 2 | Kanya Vidya Mandir | 201904413 |
+| 3 | Jr. Sr. B B A and BCA College | 201904413 |
+| 4 | Auditorium | 177990563 |
+| 5 | Indoor Sport facility | 72531236 |
+|  | Swimming Pool | 12836779 |
+| Sub Total | 966,574,072 |
+| B | Internal Plumbing |  |
+| 1 | English medium, School | 2552334.31 |
+| 2 | Kanya Vidya Mandir | 1899425.28 |
+| 3 | Jr. Sr. B B A and BCA College | 2118931.33 |
+| 4 | Auditorium | 1049500.79 |
+| 5 | Indoor Sport facility | 211254.12 |
+| 6 | Swimming Pool (Equipment+Plumbing) | 2312360.00 |
+| Sub Total | 10143805.85 |
+| C | External Plumbing | 16684096.00 |
+|  |  |  |
+| D | Fire Budgetory Cost | 8882432.00 |
+|  |  |  |
+| E | Internal concrete Roads | 21896405.00 |
+|  |  |  |
+| F | Compound Wall & Security Cabin | 18050604.40 |
+|  |  |  |
+| G | Underground Water Tank (3 lakh lit) | 5543275.31 |
+| H | Lift |  |
+| 1 | English medium, School | 11200000.00 |
+| 2 | Kanya Vidya Mandir | 11200000.00 |
+| 3 | Jr. Sr. B B A and BCA College | 11200000.00 |
+| 4 | Auditorium | 11200000.00 |
+| 5 | Indoor Sport facility | 2800000.00 |
+|  | Sub Total.. | 47600000.00 |
+|  | Internal Electricfication |  |
+|  | English medium, School | 11916307.12 |
+| 2 | Kanya Vidya Mandir | 7944546.12 |
+| 3 | Jr. Sr. B B A and BCA College | 7935346.12 |
+| 4 | Auditorium | 1263936.22 |
+| 5 | Indoor Sport facility | 5121373.00 |
+|  | Sub Total.. | 34181511.58 |
+| J | External Electrification | 18663977.40 |
+|  | Total Cost | 1148220179.00 |
+|  | Add 10% increase in SSR | 114822017.00 |
+|  | Additional 10% escalation | 114822017.00 |
+|  | Technical scrutiny charges 1.25% | 14352752.00 |
+|  | Add contingencies 5% | 57411009.00 |
+|  | Project Cost | 1587414395.00 |
+|  | Add GST 12% | 137786421.00 |
+|  | Total Project Cost | 1587414396.00 |
+--------------------------------------------------
 पृष्ठ ३ पैकी २
 # Page 3
 शासन निर्णय क्रमांक: सासंवि-१०१८/९६९/प्र.क्र.११०/का.१६
