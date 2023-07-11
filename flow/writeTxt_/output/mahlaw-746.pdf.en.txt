@@ -15,7 +15,6 @@ Government's decision:
 In view of the COVID-19 pandemic, the High Court of Bombay and its Bench have decided to purchase 100 licenses for video conferencing for Nagpur, Aurangabad and District Courts. 19,21,800/- (Rs. One hundred and twenty-eight thousand only)
 The proposal has been approved by the government through an administrative order.
 The details of the proposal for purchase of 100 licenses for Video Conferencing are as follows:
-| Sr. No. Location Qty Price per licence per Total price
 ---------------------------------------------------------------------------------------------------------------------
 | Sr. No.     | Location           | Qty | Price per licence per year inclusive of all taxes | Total price (in Rs.) |
 | 1.          | Bombay High Court  | 30  | 19,218/                                           | 5,76,540/            |

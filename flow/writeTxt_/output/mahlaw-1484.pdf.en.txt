@@ -27,7 +27,6 @@ Detailed revised administrative approval excluding the amount of expenditure is 
 Accordingly, the Government Decision dated 28.03.2023 is being superseded and the Government Decision in this regard is being issued as follows.
 Government Decision: For the purchase of new hardware for the court in the B and C Wing, Annex Building of the Aurangabad Bench of the Bombay High Court, Rs. 5,72,46, 836/- (Rs. The revised administrative approval is being granted under this Government Resolution for a sum of Rs.5 crore seventy two lakhs forty six thousand eight hundred and thirty six only.
 The details of computer content purchase are as follows:
-|Sr. No. Hardware Name Quantity Rate Total Amount
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | Sr. No. | Hardware Name                                                             | Quantity                                             | Rate      | Total Amount |
 | 1       | All-in-one PC's (SSD-256GB) with Anti-Virus Software, Large Screen& Touch | 70                                                   | 1,02,750/ | 71,92,500/   |

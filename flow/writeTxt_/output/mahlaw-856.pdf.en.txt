@@ -93,7 +93,6 @@ Functial requirements Abbreviations Used:
 | 6       | MF           | Manipulation by | fingers | 12           | BN                     | Bending |
 --------------------------------------------------------------------------------------------------------
 Category Abbreviations Used:
-|Sr. No. Abbreviation Long Form Sr. No. Abbreviation Long Form
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 | Sr. No. | Abbreviation | Long Form               | Sr. No.       | Abbreviation | Long Form                    |
 | 1       | AAV          | Acid attack Victim      | 8             | OL           | One Leg                      |
