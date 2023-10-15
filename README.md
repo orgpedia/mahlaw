@@ -18,10 +18,10 @@ The data is currently not relased through PyPI once advanced informaion is extra
 
 ## Data Details
 - **First Order:** [201803171129290212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/201803171129290212.pdf) (17 March 2018)
-- **Last Order:** [202310061621129412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310061621129412.pdf) (06 October 2023)
-- **Last Crawl Date:** 08-Oct-2023
-- **Total Orders:** 1611
-- **Translated Orders:** 1596
+- **Last Order:** [202310131721433212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310131721433212.pdf) (13 October 2023)
+- **Last Crawl Date:** 14-Oct-2023
+- **Total Orders:** 1616
+- **Translated Orders:** 1601
 
 ## Data Processing
 This is a data package repository - it contains all both the pipeline for generating data and the data generated. In a sense it is different from code repositories that only contain code and not the artifacts the code generates.
